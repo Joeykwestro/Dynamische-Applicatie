@@ -48,7 +48,7 @@
 					<td><?php echo $rows[1]; ?></td>
 					<td><?php echo $rows[2]; ?></td>
 					<td><?php echo $rows[3]; ?></td>
-					<td></td>
+					<td><li><a href="pages/character.php">View</a></li></td>
 				</tr>
 				<?php 
 					}
