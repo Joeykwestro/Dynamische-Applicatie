@@ -25,10 +25,15 @@ body{
 	border: 1px solid black;
 	width: 500px;
 	margin: 0 auto;
+	margin-top: 20px;
 }
 
 th, td{
 	border: 1px solid black;
+}
+
+#button{
+	background-color: #D6D6D6;
 }
 
 #footer{
