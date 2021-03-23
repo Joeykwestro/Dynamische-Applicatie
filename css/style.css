@@ -21,6 +21,17 @@ body{
 	display: block;
 }
 
+#tabel{
+	border: 1px solid black;
+	width: 500px;
+	margin: 0 auto;
+}
+
+th, td{
+	border: 1px solid black;
+}
+
 #footer{
 	text-align: center;
+	margin-top: 50px;
 }
